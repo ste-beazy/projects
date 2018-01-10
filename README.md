@@ -21,7 +21,7 @@
       </ul>
   <li>Social Network: <a href="https://github.com/sbrown3234/final-project">s_(MASHED)</a></li>
         <ul>
-        <li>Backend: Node, Express</li>
+        <li>Backend: Node, Express, Socket.io</li>
         <li>Frontend: React, FabricJS, HTML5, CSS</li>
         <li>Database Management: PostgresSQL</li>
         <li>Content Management: Amazon Web Services</li>
