@@ -1,4 +1,3 @@
-# projects
 
 <h1>#HelloWorld</h1>
 <p>My name's Stephen Brown, and I am a writer turned bartender/Full Stack Developer, slinging drinks and full stack advice from behind the bar. Aside from my own creative projects, I try to keep up to date with the latest developments in the fields of artificial intelligence and predictive analytics. Talented at reading disparate data sets, I am able to understand the motivations behind a user's behavior online. Ultimately, my goal is to work with a dedicated team of creative developers who are looking to better understand user trends and anticipate the latest trends in web development and user experience. Below are a few of the projects that I have been working on, complete with techstacks used and links to their respective repositories.</p>
