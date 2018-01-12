@@ -11,7 +11,7 @@
         <li>Database Management: PostgresSQL, Redis</li>
         <li>Content Management: Amazon Web Services</li>
       </ul>
-  <li>ImageBoard: <a href="https://github.com/sbrown3234/image-board">Bird Watch</a></li>
+  <li>ImageBoard: <a href="https://github.com/sbrown3234/bird-watch">Bird Watch</a></li>
         <ul>
         <li>Backend: Node, Express</li>
         <li>Frontend: AngularJS, Handlebars, HTML5, CSS</li>
