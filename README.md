@@ -4,21 +4,21 @@
 
 <h2>Projects</h2>
 <ul>
-  <li>Petition: <a href="https://github.com/sbrown3234/petition">Don't Be A Jerk</a></li>
+  <li>Petition: <a href="https://github.com/ste-beazy/petition">Don't Be A Jerk</a></li>
       <ul>
         <li>Backend: Node, Express</li>
         <li>Frontend: JQuery, Handlebars, HTML5, CSS</li>
         <li>Database Management: PostgresSQL, Redis</li>
         <li>Content Management: Amazon Web Services</li>
       </ul>
-  <li>ImageBoard: <a href="https://github.com/sbrown3234/bird-watch">Bird Watch</a></li>
+  <li>ImageBoard: <a href="https://github.com/ste-beazy/bird-watch">Bird Watch</a></li>
         <ul>
         <li>Backend: Node, Express</li>
         <li>Frontend: AngularJS, Handlebars, HTML5, CSS</li>
         <li>Database Management: PostgresSQL</li>
         <li>Content Management: Amazon Web Services</li>
       </ul>
-  <li>Social Network: <a href="https://github.com/sbrown3234/final-project">s_(MASHED)</a></li>
+  <li>Social Network: <a href="https://github.com/ste-beazy/final-project">s_(MASHED)</a></li>
         <ul>
         <li>Backend: Node, Express, Socket.io</li>
         <li>Frontend: React, FabricJS, HTML5, CSS</li>
